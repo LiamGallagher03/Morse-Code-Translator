@@ -106,7 +106,7 @@ public class MorseCode {
               System.out.println("••••• ");
           }
           else if ("6".equals(tempVar)) {
-              System.out.println("-••• •");
+              System.out.println("-•••• ");
           }
           else if ("7".equals(tempVar)) {
               System.out.println("--••• ");
